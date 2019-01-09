@@ -53,9 +53,6 @@ choose install ubuntu
 
 **device for boot loader install: choose the partition you assigned for EFI system**
 
-# HP proxy setting
-![](proxy.jpg)
-
 # GPU driver
 ## check your driver and download it
 [for Titan Xp] http://www.nvidia.com/download/driverResults.aspx/128737/en-us
